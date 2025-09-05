@@ -1,0 +1,19 @@
+{
+  "name": "agentic-shopping-mcp",
+  "version": "0.1.0",
+  "type": "module",
+  "scripts": {
+    "build": "tsc -p tsconfig.server.json",
+    "start": "node dist/server.js",
+    "test:client": "tsx scripts/test_client.ts",
+    "dev": "tsx src/server.ts"
+  },
+  "dependencies": {
+    "@modelcontextprotocol/sdk": "1.3.0"
+  },
+  "devDependencies": {
+    "@types/node": "^20.11.0",
+    "tsx": "^4.16.0",
+    "typescript": "^5.4.0"
+  }
+}

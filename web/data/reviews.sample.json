@@ -1,0 +1,16 @@
+{
+  "B00PHONE001": [
+    {"stars": 5, "title": "Great camera!", "text": "OIS helps a lot in night photos.", "aspect": "camera"},
+    {"stars": 4, "title": "Good display", "text": "120Hz feels smooth.", "aspect": "display"}
+  ],
+  "B00PHONE002": [
+    {"stars": 4, "title": "Value for money", "text": "Camera is ok for the price.", "aspect": "camera"}
+  ],
+  "B00PHONE003": [
+    {"stars": 5, "title": "Flagship killer", "text": "Camera and battery are superb!", "aspect": "camera"},
+    {"stars": 4, "title": "Solid phone", "text": "AMOLED is bright outdoors.", "aspect": "display"}
+  ],
+  "B00SKIN001": [
+    {"stars": 5, "title": "Works for oily skin", "text": "Salicylic acid reduced acne.", "aspect": "ingredients"}
+  ]
+}

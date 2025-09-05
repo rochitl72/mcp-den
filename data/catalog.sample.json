@@ -1,0 +1,74 @@
+[
+  {
+    "id": "B00PHONE001",
+    "title": "CamX Pro 5G Smartphone",
+    "brand": "CamX",
+    "category": "mobiles",
+    "priceINR": 13999,
+    "rating": 4.3,
+    "ratingCount": 12453,
+    "specs": {
+      "camera": "50MP OIS main + 8MP ultra-wide",
+      "battery": "5000 mAh",
+      "display": "6.5\" AMOLED 120Hz",
+      "storage": "128GB",
+      "ram": "6GB"
+    },
+    "images": [
+      "https://example.com/img/camxpro-front.jpg",
+      "https://example.com/img/camxpro-back.jpg"
+    ],
+    "url": "https://www.amazon.in/dp/B00PHONE001"
+  },
+  {
+    "id": "B00PHONE002",
+    "title": "Pixelia Lite 4G",
+    "brand": "Pixelia",
+    "category": "mobiles",
+    "priceINR": 10999,
+    "rating": 4.1,
+    "ratingCount": 8231,
+    "specs": {
+      "camera": "48MP main",
+      "battery": "5000 mAh",
+      "display": "6.4\" IPS 90Hz",
+      "storage": "64GB",
+      "ram": "4GB"
+    },
+    "images": ["https://example.com/img/pixelia-lite.jpg"],
+    "url": "https://www.amazon.in/dp/B00PHONE002"
+  },
+  {
+    "id": "B00PHONE003",
+    "title": "Nexa Max 5G",
+    "brand": "Nexa",
+    "category": "mobiles",
+    "priceINR": 15999,
+    "rating": 4.5,
+    "ratingCount": 25433,
+    "specs": {
+      "camera": "64MP OIS main + 12MP ultra-wide",
+      "battery": "5200 mAh",
+      "display": "6.7\" AMOLED 120Hz",
+      "storage": "128GB",
+      "ram": "8GB"
+    },
+    "images": ["https://example.com/img/nexa-max.jpg"],
+    "url": "https://www.amazon.in/dp/B00PHONE003"
+  },
+  {
+    "id": "B00SKIN001",
+    "title": "Oil-Control Gentle Face Wash",
+    "brand": "PureDerma",
+    "category": "skincare",
+    "priceINR": 349,
+    "rating": 4.2,
+    "ratingCount": 5432,
+    "specs": {
+      "ingredients": ["Salicylic Acid 2%", "Niacinamide 4%", "Aloe Vera"],
+      "skinType": "oily"
+    },
+    "images": ["https://example.com/img/purederma-fwash.jpg"],
+    "url": "https://www.amazon.in/dp/B00SKIN001"
+  }
+]

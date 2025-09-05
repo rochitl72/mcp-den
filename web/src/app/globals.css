@@ -1,0 +1,19 @@
+@import "tailwindcss";
+
+/* Your global dark theme */
+:root { color-scheme: dark; }
+
+html, body {
+  /* these are Tailwind utilities and WILL be applied by v4 */
+  @apply bg-slate-950 text-slate-100 antialiased min-h-screen;
+}
+
+/* reusable card surface */
+.card {
+  @apply rounded-2xl border border-slate-800 bg-slate-900 shadow-xl;
+}
+
+/* focus ring for keyboard nav */
+button, input, select, textarea {
+  @apply focus:outline-none focus:ring-2 focus:ring-emerald-400;
+}
